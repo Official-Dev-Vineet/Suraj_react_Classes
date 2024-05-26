@@ -5,7 +5,7 @@ class LifecycleExample extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      count: 0,
+      count: 1,
       name: "suraj",
     };
     console.log("Constructor: Component is being created.");
